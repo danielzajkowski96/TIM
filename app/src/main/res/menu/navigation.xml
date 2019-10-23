@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_timetable"
+        android:icon="@drawable/ic_schedule_black_24dp"
+        android:title="@string/title_timetable" />
+
+    <item
+        android:id="@+id/navigation_messages"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="@string/title_messages" />
+
+    <item
+        android:id="@+id/navigation_learning_materials"
+        android:icon="@drawable/ic_attach_file_black_24dp"
+        android:title="@string/title_learning_materials" />
+
+</menu>
